@@ -1,3 +1,3 @@
 # SAWT Application
 
-This repository contains the SAWT application which includes a structured organization for both frontend and backend development. 
+This is a comprehensive project structure for the SAWT application.

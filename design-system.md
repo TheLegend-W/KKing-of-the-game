@@ -1,53 +1,41 @@
-# SAWT Platform Brand Identity and Design System
+# SAWT Black & Gold Premium Brand Identity System
 
-## Visual Philosophy
-- **Purpose**: To deliver a seamless user experience through a cohesive design language.
-- **Tone**: Professional yet approachable.
-  
-## Color System
-### Primary Colors
-- **Blue**: #005EB8
-- **White**: #FFFFFF
+## Color Palette
+| Color Name | HEX Code |
+|------------|----------|
+| Black      | #000000  |
+| Gold       | #FFD700  |
 
-### Secondary Colors
-- **Gray**: #A0A0A0
-- **Dark Gray**: #333333
+## Typography Guidelines
+- **Primary Font:** Montserrat
+- **Secondary Font:** Open Sans
 
-## Typography
-- **Primary Font**: Helvetica Neue 
-  - Regular: 16px, Bold: 24px
-- **Secondary Font**: Arial 
-  - Regular: 14px, Italic: 16px  
+## UI Component Specifications
+- **Buttons:** Rounded corners, shadow effect, hover states
+- **Input Fields:** Underline styles, focus states
 
-## Design Guidelines
-### Layout Principles
-- Use a grid system for alignment and spacing.
-- Maintain 20px margins for guaranteed whitespace.
+## Application Screen Designs
+- **Home Screen:** Showcase featured games and activities
+- **Profile Screen:** User stats, subscriptions, and challenge history
 
-### Iconography
-- Icons should be simple and intuitive.
-- Use the same stroke width throughout. 
+## Talent Level System
+- **Levels:** Novice, Intermediate, Expert, Master
+- **XP Allocation:** Earn XP through participation in challenges
 
-### Imagery
-- Use high-quality images that reflect the brand’s tone. 
-- Avoid overly decorative images.
+## Subscription Tiers
+1. **Basic Tier:** Access to standard features
+2. **Premium Tier:** Exclusive content and advanced features
+3. **VIP Tier:** All-access pass with personalized support
 
-## UI Components
-### Buttons
-- **Primary Button**: 
-  - Background Color: #005EB8
-  - Font Color: #FFFFFF
-- **Secondary Button**:
-  - Background Color: #A0A0A0
-  - Font Color: #333333
+## Challenge Interface
+- Intuitive layout for easy navigation
+- Timer display for each challenge
 
-### Input Fields
-- Rounded corners with a 4px radius.
-- Standard font size of 16px.
+## Intro Video Specifications
+- Duration: 1-2 minutes
+- Format: MP4
+- Content: Overview of platform and features
 
-## Executive Messaging
-- **Mission Statement**: "To empower individuals through technology and enhance user experiences."
-- **Vision Statement**: "Be the leading platform for innovative solutions in the digital landscape."
-
-## Conclusion
-This documentation serves as a guide for maintaining visual consistency across all branding efforts. For any queries, please refer to the design team.
+## Executive Messaging Language
+- **Vision Statement:** "Empowering gamers through a unique experience."
+- **Mission Statement:** "To create an engaging and supportive community for players of all levels."
